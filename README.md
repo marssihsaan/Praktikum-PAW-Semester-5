@@ -113,7 +113,7 @@ Not Yet X
 
 News Site Using WordPress (5)
 
-Not Yet X
+![wordpress news](https://user-images.githubusercontent.com/86870047/209458441-8c8a65f0-8793-465e-88fe-0ec3ec944f01.jpg)
 
 
 
