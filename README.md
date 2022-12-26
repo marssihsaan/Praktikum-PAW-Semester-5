@@ -76,7 +76,8 @@ HTTP, GET POST, API (5)
 
 Dynamic Web Page (5)
 
-![dynamic web](https://user-images.githubusercontent.com/86870047/209457185-130de0d5-f78c-4378-bf6a-5da1425890c3.jpg)
+![daftarpeminjman](https://user-images.githubusercontent.com/86870047/209492482-e6d3dd50-68c4-4c09-a7ba-fa196b3062d5.png)
+![daftarpengembalian](https://user-images.githubusercontent.com/86870047/209492494-4fe604ea-d274-47cd-9504-7a2fc26158c3.png)
 
 PHP - DB Web Service (5)
 
