@@ -47,11 +47,11 @@ Apache Web Server Install & Operation (5)
 
 Demo: CPanel Operation (4)
 
-Have Done with my class V
+![cpanel](https://user-images.githubusercontent.com/86870047/209555381-3b5b9c32-bcb2-4171-8121-cd6957f086a4.jpeg)
 
 Domain Registration (1)
 
-Have Done with my class V
+![image](https://user-images.githubusercontent.com/86870047/209555316-63e151e3-aa5d-4812-8dc8-dec213647644.png)
 
 HTML Responsive Layout Media Querry Flexbox (3)
 
