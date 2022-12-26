@@ -104,9 +104,10 @@ Single Page App With React and React-Router (12)
 ![react router   bootstrap](https://user-images.githubusercontent.com/86870047/209457260-693759e5-eba2-42ec-91b1-9d0c6171f2e7.jpg)
 ![helloworld npm](https://user-images.githubusercontent.com/86870047/209457265-c96eb820-c4e2-4865-8d99-456d586b4ae4.jpg)
 
-Dynamic Web Page Using Laravel (9)
+Dynamic Web Page Using Laravel (PHP, Bootstrap) (9)
 
-Not Yet X
+![daftarpeminjman](https://user-images.githubusercontent.com/86870047/209493536-43aa14d8-f312-4f72-8813-fc1964834675.png)
+![daftarpengembalian](https://user-images.githubusercontent.com/86870047/209493546-578750b7-83ce-4dce-9d89-8411cfe7a758.png)
 
 Web Service Using Slim (6)
 
